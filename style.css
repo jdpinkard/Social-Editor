@@ -266,6 +266,7 @@ button {
     cursor: pointer;
     transition: all 0.2s;
     animation: fade-in 1s 0.5s backwards;
+    
 }
 
 .panel__btn:hover,
